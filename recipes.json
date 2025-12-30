@@ -1,0 +1,14 @@
+{
+    "1": {"Nasi": 1, "Telur": 1, "Bumbu_Nasgor": 1},
+    "2": {"Mie": 1, "Ayam_Suwir": 1, "Kuah_Kaldu": 1},
+    "3": {"Daging_Biawak": 1, "Tusuk_Sate": 10},
+    "4": {"Ayam": 1, "Tepung": 1, "Sambal": 1},
+    "5": {"Bakso_Sapi": 5, "Kuah_Kaldu": 1},
+    "6": {"Sayuran": 1, "Bumbu_kacang": 1},
+    "7": {"Daging_sapi": 1, "Bumbu_rendang": 1},
+    "8": {"Ayam": 1, "Kuah_Kaldu": 1},
+    "9": {"Teh": 1, "Gula": 1, "Es_Batu": 1},
+    "10": {"Jeruk": 1, "Gula": 1, "Es_Batu": 1},
+    "11": {"Air": 1},
+    "12": {"Kopi": 1, "Gula": 1, "Es_Batu": 1}
+}
