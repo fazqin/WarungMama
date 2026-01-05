@@ -44,13 +44,15 @@ Menggunakan file JSON sebagai database lightweight untuk menyimpan stok dan rese
 # 📦 Instalasi & Cara Penggunaan
 ### Persiapan File
 Pastikan folder project memiliki struktur berikut:
+```
 /warung-mama
-├── cashier.py          # Jalankan ini untuk bagian Kasir
-├── kitchen_kds.py      # Jalankan ini untuk bagian Dapur
-├── recipes.json        # Database resep masakan
-├── bahan_baku.json     # Database stok gudang
-├── stok_harian.json    # (Auto-generated) Sisa porsi menu
-└── riwayat_penjualan.csv # (Auto-generated) Log transaksi
+ ├── cashier.py          # Jalankan ini untuk bagian Kasir
+ ├── kitchen_kds.py      # Jalankan ini untuk bagian Dapur
+ ├── recipes.json        # Database resep masakan
+ ├── bahan_baku.json     # Database stok gudang
+ ├── stok_harian.json    # (Auto-generated) Sisa porsi menu
+ └── riwayat_penjualan.csv # (Auto-generated) Log transaksi 
+```
 ## Cara Menjalankan
 ### 1. Buka Terminal 1 (Kasir):
 ```python main.py```
